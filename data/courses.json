@@ -1,0 +1,35 @@
+[
+    {
+      "course_id": "AI101",
+      "name": "Introduction to AI",
+      "tags": ["AI", "Machine Learning"],
+      "grade": 11,
+      "group": ["Computer Science"],
+      "mandatory": false
+    },
+    {
+      "course_id": "WD102",
+      "name": "Web Development Basics",
+      "tags": ["Web Development", "Frontend"],
+      "grade": 11,
+      "group": ["Computer Science"],
+      "mandatory": false
+    },
+    {
+      "course_id": "RD202",
+      "name": "Robotics Design",
+      "tags": ["Robotics", "Engineering"],
+      "grade": 11,
+      "group": ["Computer Science"],
+      "mandatory": false
+    },
+    {
+      "course_id": "ENG001",
+      "name": "English Essentials",
+      "tags": ["English"],
+      "grade": 11,
+      "group": ["Computer Science", "Biology", "Commerce"],
+      "mandatory": true
+    }
+  ]
+  
